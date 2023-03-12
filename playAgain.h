@@ -1,0 +1,6 @@
+#ifndef ROCKPAPERSCISSORS_PLAYAGAIN_H
+#define ROCKPAPERSCISSORS_PLAYAGAIN_H
+
+bool playAgain(std::string playAgainYN);
+
+#endif //ROCKPAPERSCISSORS_PLAYAGAIN_H
